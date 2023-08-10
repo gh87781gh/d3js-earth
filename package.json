@@ -1,0 +1,14 @@
+{
+  "name": "a2bb054328ef48cc",
+  "main": "a2bb054328ef48cc@274.js",
+  "version": "274.0.0",
+  "homepage": "https://observablehq.com/d/a2bb054328ef48cc",
+  "author": {
+    "name": "JennyShih's Workspace",
+    "url": "https://observablehq.com/@jennyshih-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
